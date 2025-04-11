@@ -1,0 +1,41 @@
+body {
+    padding: 3px;
+}
+.beagle-blog {
+    border: 1px solid black;
+    margin: 0; 
+    padding: 0 0 10px 10px;
+}
+
+.beagle-blog h1 {
+    font-size: 32px;
+    margin: 0; 
+    padding: 10px 0;
+}
+
+.beagle-blog p {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+.image-section h1 {
+    font-size: 32px;
+}
+
+.img-dog{
+    height: 22%;
+    width: 22%;
+}
+
+.trivia-section h1 {
+    font-size: 32px;
+}
+
+ol {
+    margin: 0;
+    padding-left: 15px;
+  }
